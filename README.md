@@ -7,13 +7,9 @@ The goal is to provide actionable insights into revenue drivers and operational 
 - To track and rank individual product performance.
 
 ## Workflow & Methodology:
-- Accessed and reviewed the [Raw Dataset](./pizza_sales%20raw%20data.xlsx) in **Excel**
-- Imported the raw data into a **SQL** environment for [ETL Data](./Data%20Cleaning%20Pizza_Sales%20Queries.sql) (Extract - Transform - Load)
-
-
-- Power BI, transform data. Thứ nhất là KPI Card, thứ 2 là các biểu đồ mà bên khách hàng yêu cầu
-- file pdf kia dùng khi file power bi nó bị lỗi
-
+- Accessed and reviewed raw data in **Excel**: [pizza_sales raw data.xlsx](./pizza_sales%20raw%20data.xlsx)
+- Imported the raw data into a **SQL** environment for ETL Data (Extract - Transform - Load) [Data Cleaning Pizza_Sales Queries.sql](./Data%20Cleaning%20Pizza_Sales%20Queries.sql) 
+- Loaded the refined dataset into **Power BI** for the final build Dashboard [Pizza Sales Dashboard.pbix](./Pizza%20Sales%20Dashboard.pbix)
 
 ## Feedback & Contributions
 This is a sample project created for self-assessment and skill-building. 
